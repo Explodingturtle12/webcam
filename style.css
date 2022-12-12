@@ -1,0 +1,15 @@
+.heading{width:80%;
+    font-size:22px;}
+    #cam
+    {
+        border:2px dashed snow;
+        width:350px; height:300px;
+    }
+.objects {
+    color:aqua;
+
+} 
+body{
+    color:aliceblue;
+    background:black;
+}
